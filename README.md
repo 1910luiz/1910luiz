@@ -1,7 +1,7 @@
 [@LuizApaza.md](https://github.com/user-attachments/files/25881179/%40LuizApaza.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0008ff,50:0066ff,100:00c8ff&height=230&section=header&text=Luis%20Rene%20Apaza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Student%20%7C%20Developer%20%7C%20Innovator%20%E2%9A%A1&descAlignY=60&descSize=20&descColor=00c8ff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0008ff,50:0066ff,100:00c8ff&height=230&section=header&text=Luis%20Apaza&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=%E2%9A%A1%20Student%20%7C%20Developer%20%7C%20Innovator%20%E2%9A%A1&descAlignY=60&descSize=20&descColor=00c8ff&animation=fadeIn" width="100%"/>
 
 </div>
 
